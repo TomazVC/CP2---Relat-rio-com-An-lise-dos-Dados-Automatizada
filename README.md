@@ -81,7 +81,5 @@ IFrame(report_path, width=800, height=600)
 
 ## Contato
 Caso tenha dúvidas ou sugestões, entre em contato com os autores:
-- Rony Ken Nagai - [LinkdIn]([mailto:ronyken@example.com](https://www.linkedin.com/in/rony-nagai/))
-- Tomáz Versolato Carballo - [LinkedIn]([mailto:tomascarballo@example.com](https://www.linkedin.com/in/tomazcarballo/))
-
-```
+- Rony Ken Nagai - [LinkedIn](https://www.linkedin.com/in/rony-nagai/)
+- Tomáz Versolato Carballo - [LinkedIn](https://www.linkedin.com/in/tomazcarballo/)
