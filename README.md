@@ -4,6 +4,7 @@
 Este projeto tem como objetivo criar um sistema automatizado para análise de dados, gerando um relatório HTML estilizado utilizando **Bootstrap**. A ferramenta automatiza o processo de análise exploratória, exibindo estatísticas principais e gráficos para facilitar a visualização e compreensão dos dados. O sistema é desenvolvido em **Python**, utilizando bibliotecas populares como `pandas`, `matplotlib`, `seaborn` e `jinja2`.
 
 ## Integrantes
+- **Lucas Laia Manentti** - RM: 97709
 - **Rony Ken Nagai** - RM: 551549
 - **Tomáz Versolato Carballo** - RM: 551417
 
@@ -97,6 +98,7 @@ IFrame(report_path, width=800, height=600)
 
 ## Contato
 Caso tenha dúvidas ou sugestões, entre em contato com os autores:
+- **Lucas Laia Manentti** - [LinkedIn](https://www.linkedin.com/in/lucas-laia-manentti-08a577208/)
 - **Rony Ken Nagai** - [LinkedIn](https://www.linkedin.com/in/rony-nagai/)
 - **Tomáz Versolato Carballo** - [LinkedIn](https://www.linkedin.com/in/tomazcarballo/)
 
